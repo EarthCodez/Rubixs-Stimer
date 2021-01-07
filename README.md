@@ -7,4 +7,4 @@ and load them back later.
 u have to hold the keys 1 & 0 at the same time when u release it then the timer starts.
 press enter to start the scramble generator and space to stop .
 press r to reset timer.
-
+use .txt to save results
